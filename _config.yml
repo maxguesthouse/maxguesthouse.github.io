@@ -7,9 +7,9 @@ logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
-    hero_img: hero.jpg
+    hero_img: hero.JPG
     hero_title: Max Paying Guest House
-    hero_description: Home away from home.
+    hero_description: Your Home away from Home.
 
 # Contact form
 api_token: # Enter API token here

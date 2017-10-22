@@ -1,15 +1,15 @@
 # Site settings
 title: DentistSmile | Dental Jekyll Theme
 description: "A responsive Jekyll theme for dental clinics."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "maxguesthouse.github.io" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: Max Paying Guest House
+    hero_description: Home away from home.
 
 # Contact form
 api_token: # Enter API token here
@@ -17,7 +17,7 @@ api_token: # Enter API token here
 # Contact info
 contact:
     phone: 098374 12086
-    emergency: 931 53 234
+    emergency: Please see above
     email: maxpayingguest@gmail.com
     address: 63 MMIG Shaheed Nagar, Agra <br>
     282001 Agra, Uttar Pradesh - India
@@ -34,15 +34,15 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: 63 MMIG Shaheed Nagar, Agra, 282001 Agra, Uttar Pradesh - India
     address_details: svg/min/logo.svg
 
 # Social settings
 facebook: http://facebook.com/max1702pg
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
+# twitter: http://twitter.com
+# instagram: http://instagram.com
+# youtube: http://youtube.com
+# skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer

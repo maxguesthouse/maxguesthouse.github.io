@@ -1,11 +1,11 @@
-name: Shibin
-description: Friendly staff & cheap @ best and it good for travelers . I recommend this hotel 100%
-title: United Arab Emirates
+- name: Shibin
+  description: Friendly staff & cheap @ best and it good for travelers . I recommend this hotel 100%
+  title: United Arab Emirates
 
-name: Sarath Kumar
-description: Friendly and helpful staff. free wifi.
-title: Germany
+- name: Sarath Kumar
+  description: Friendly and helpful staff. free wifi.
+  title: Germany
 
-name: Robert
-description: Top notch and personal service. Good location and a little calmer than the big street
-title: Sweden
+- name: Robert
+  description: Top notch and personal service. Good location and a little calmer than the big street
+  title: Sweden

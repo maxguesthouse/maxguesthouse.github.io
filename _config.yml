@@ -16,15 +16,16 @@ api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
+    phone: 098374 12086
     emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    email: maxpayingguest@gmail.com
+    address: 63 MMIG Shaheed Nagar, Agra <br>
+    282001 Agra, Uttar Pradesh - India
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+monday_friday: 06:00 – 22:30
+saturday: 06:00 – 23:30
+sunday: 07:00 – 00:00
 
 # Testimonials
 testimonials:
@@ -37,7 +38,7 @@ map:
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
+facebook: http://facebook.com/max1702pg
 twitter: http://twitter.com
 instagram: http://instagram.com
 youtube: http://youtube.com
@@ -45,7 +46,7 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+Made With Love from <a href = "marketingbh.com">Marketing BH </a>
 
 # Build settings
 markdown: kramdown
